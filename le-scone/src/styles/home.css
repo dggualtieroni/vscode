@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+}
+
+:root {
+    --background: #edece4;
+    --background-boder: #cbc6b9;
+    --text_blacr: #2a2426;
+    --background-footer: #2a2426;
+    --text-color: #988c77;
+    --background: #cbc6b9;
+
+    --font-size-small: 18px;
+
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: var(--background);
+    border: 10px solid var(--background);
+}
